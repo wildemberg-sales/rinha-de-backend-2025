@@ -1,6 +1,6 @@
 # Prévia do Resultados da Rinha de Backend 2025
-Atualizado em **Sun Aug 17 20:09:46 UTC 2025**
-449 submissões / 389 resultados / 60 submissões com erro
+Atualizado em **Sun Aug 17 20:17:02 UTC 2025**
+450 submissões / 390 resultados / 60 submissões com erro
 
 
 | participante | p99 | bônus por desempenho (%) | multa ($) | lucro | submissão |
@@ -13,6 +13,7 @@ Atualizado em **Sun Aug 17 20:09:46 UTC 2025**
 |	4emcos-golang	|	2.66ms	|	17%	|	93382.19275	|	218781.1373	|	[4emcos-golang](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/4emcos-golang)
 |	DouglasMorais-java-od	|	2.71ms	|	17%	|	0	|	370070.47935	|	[DouglasMorais-java-od](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/DouglasMorais-java-od)
 |	DouglasMorais-java	|	2.24ms	|	18%	|	0	|	368410.2721	|	[DouglasMorais-java](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/DouglasMorais-java)
+|	Gabriel-Golang	|	19.61ms	|	0%	|	108687.78025	|	201848.73475	|	[Gabriel-Golang](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/Gabriel-Golang)
 |	IgorFVicente	|	3.3ms	|	15%	|	0	|	358815.05924997467	|	[IgorFVicente](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/IgorFVicente)
 |	MathausCarvalhoNode	|	2.42ms	|	17%	|	0	|	365654.8584	|	[MathausCarvalhoNode](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/MathausCarvalhoNode)
 |	Maxel-Uds-quarkus-java-21	|	4.79ms	|	12%	|	0	|	354256.616	|	[Maxel-Uds-quarkus-java-21](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/Maxel-Uds-quarkus-java-21)

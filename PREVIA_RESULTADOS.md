@@ -1,6 +1,6 @@
 # Prévia do Resultados da Rinha de Backend 2025
-Atualizado em **Sun Aug 17 22:34:36 UTC 2025**
-456 submissões / 393 resultados / 63 submissões com erro
+Atualizado em **Sun Aug 17 22:43:24 UTC 2025**
+458 submissões / 394 resultados / 64 submissões com erro
 
 
 | participante | p99 | bônus por desempenho (%) | multa ($) | lucro | submissão |
@@ -173,6 +173,7 @@ Atualizado em **Sun Aug 17 22:34:36 UTC 2025**
 |	jeffersonaguiar-nodejs	|	4.41ms	|	13%	|	0	|	349512.06795	|	[jeffersonaguiar-nodejs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/jeffersonaguiar-nodejs)
 |	jeifersonalmeida-stage-1	|	2.54ms	|	17%	|	0	|	370512.8563499669	|	[jeifersonalmeida-stage-1](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/jeifersonalmeida-stage-1)
 |	jeifersonalmeida-stage-2	|	2.36ms	|	17%	|	0	|	370476.76769996696	|	[jeifersonalmeida-stage-2](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/jeifersonalmeida-stage-2)
+|	jessicanathany-dotnet	|	188.44ms	|	0%	|	0	|	268027.13	|	[jessicanathany-dotnet](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/jessicanathany-dotnet)
 |	jjeanjacques10	|	5.03ms	|	12%	|	78481.27175	|	172658.79785	|	[jjeanjacques10](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/jjeanjacques10)
 |	joao-bittencourt-php-redis	|	1248.88ms	|	0%	|	0	|	0	|	[joao-bittencourt-php-redis](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/joao-bittencourt-php-redis)
 |	joao-vitor-node	|	16.93ms	|	0%	|	0	|	453.72	|	[joao-vitor-node](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/joao-vitor-node)
@@ -485,6 +486,7 @@ Atualizado em **Sun Aug 17 22:34:36 UTC 2025**
 | matheusdojava | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/matheusdojava) |
 | matheusf-lucas-and-luis-java1 | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/matheusf-lucas-and-luis-java1) |
 | matheusf-lucas-and-luizcastro-java2 | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/matheusf-lucas-and-luizcastro-java2) |
+| matheusp | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/matheusp) |
 | maxsonferovante-spring-mongo | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/maxsonferovante-spring-mongo) |
 | mbenencase-python | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/mbenencase-python) |
 | mdantas-rust | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/mdantas-rust) |

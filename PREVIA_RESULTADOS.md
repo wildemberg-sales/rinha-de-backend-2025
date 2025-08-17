@@ -1,6 +1,6 @@
 # Prévia do Resultados da Rinha de Backend 2025
-Atualizado em **Sun Aug 17 22:13:40 UTC 2025**
-455 submissões / 393 resultados / 62 submissões com erro
+Atualizado em **Sun Aug 17 22:21:15 UTC 2025**
+456 submissões / 393 resultados / 63 submissões com erro
 
 
 | participante | p99 | bônus por desempenho (%) | multa ($) | lucro | submissão |

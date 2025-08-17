@@ -20,7 +20,11 @@ services:
           memory: "70MB"
 
   api1: &api
+<<<<<<< Updated upstream
     image: enermaxx/rinha-standalone:10.0.4
+=======
+    image: enermaxx/rinha-standalone:10.0.1
+>>>>>>> Stashed changes
     container_name: springboot-api1
     hostname: api1
     environment:

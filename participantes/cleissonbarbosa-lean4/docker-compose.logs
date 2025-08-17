@@ -1,8 +1,0 @@
-
- in-memory-db Pulling 
- in-memory-db Pulled 
- Network cleissonbarbosa-lean4_default  Creating
- Network cleissonbarbosa-lean4_default  Created
- Container rinha-in-memory-db  Creating
-Error response from daemon: Conflict. The container name "/rinha-in-memory-db" is already in use by container "79ca380c47a23047b38ffbe7321b7cf2d09e40e8acbfb0449945ad77ae216a3d". You have to remove (or rename) that container to be able to reuse that name.
-log truncated at line 1000

@@ -1,6 +1,6 @@
 # Prévia do Resultados da Rinha de Backend 2025
-Atualizado em **Sun Aug 17 20:34:45 UTC 2025**
-449 submissões / 389 resultados / 60 submissões com erro
+Atualizado em **Sun Aug 17 20:43:29 UTC 2025**
+451 submissões / 391 resultados / 60 submissões com erro
 
 
 | participante | p99 | bônus por desempenho (%) | multa ($) | lucro | submissão |
@@ -241,6 +241,7 @@ Atualizado em **Sun Aug 17 20:34:45 UTC 2025**
 |	libardi-dotnet-2	|	2.28ms	|	17%	|	110784.94175	|	259553.2921	|	[libardi-dotnet-2](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/libardi-dotnet-2)
 |	libardi-dotnet-3	|	2.27ms	|	17%	|	0	|	370521.0054	|	[libardi-dotnet-3](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/libardi-dotnet-3)
 |	libardi-dotnet	|	14.55ms	|	0%	|	0	|	312613.08	|	[libardi-dotnet](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/libardi-dotnet)
+|	lmtani	|	32.8ms	|	0%	|	0	|	0	|	[lmtani](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lmtani)
 |	lpicanco-moonshine	|	1.62ms	|	19%	|	0	|	368722.6424	|	[lpicanco-moonshine](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lpicanco-moonshine)
 |	lpicanco-rust	|	2.41ms	|	17%	|	0	|	370534.9752	|	[lpicanco-rust](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lpicanco-rust)
 |	luanvictor-node	|	192.59ms	|	0%	|	74262.223	|	137915.557	|	[luanvictor-node](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/luanvictor-node)
@@ -315,6 +316,7 @@ Atualizado em **Sun Aug 17 20:34:45 UTC 2025**
 |	pru-async-v3	|	6.3ms	|	9%	|	0	|	345013.79235	|	[pru-async-v3](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/pru-async-v3)
 |	pru-async-v4	|	5.29ms	|	11%	|	0	|	351323.3361	|	[pru-async-v4](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/pru-async-v4)
 |	pru-async-v5	|	9.08ms	|	4%	|	0	|	328931.876	|	[pru-async-v5](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/pru-async-v5)
+|	pru-async-v6	|	9ms	|	4%	|	0	|	329108.8268	|	[pru-async-v6](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/pru-async-v6)
 |	pru-async	|	26.01ms	|	0%	|	0	|	316431.89	|	[pru-async](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/pru-async)
 |	pru	|	186.66ms	|	0%	|	0	|	113056.875	|	[pru](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/pru)
 |	rafaelberrocalj-dotnet	|	3.71ms	|	15%	|	0	|	0	|	[rafaelberrocalj-dotnet](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/rafaelberrocalj-dotnet)

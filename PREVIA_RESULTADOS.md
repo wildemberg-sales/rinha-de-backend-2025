@@ -1,11 +1,12 @@
 # Prévia do Resultados da Rinha de Backend 2025
-Atualizado em **Sun Aug 17 20:02:23 UTC 2025**
-448 submissões / 388 resultados / 60 submissões com erro
+Atualizado em **Sun Aug 17 20:09:46 UTC 2025**
+449 submissões / 389 resultados / 60 submissões com erro
 
 
 | participante | p99 | bônus por desempenho (%) | multa ($) | lucro | submissão |
 | -- | -- | -- | -- | -- | -- |
 |	$hell-c#	|	3.75ms	|	15%	|	0	|	363679.266	|	[$hell-c#](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/$hell-c#)
+|	100f-java-1	|	3.99ms	|	14%	|	0	|	27934.4061	|	[100f-java-1](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/100f-java-1)
 |	4emcos-bun-lb-fb	|	2.09ms	|	18%	|	0	|	368213.023299974	|	[4emcos-bun-lb-fb](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/4emcos-bun-lb-fb)
 |	4emcos-bun-lb	|	2.03ms	|	18%	|	0	|	373679.63290003274	|	[4emcos-bun-lb](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/4emcos-bun-lb)
 |	4emcos-bun	|	1.6ms	|	19%	|	0	|	376913.9003000331	|	[4emcos-bun](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/4emcos-bun)

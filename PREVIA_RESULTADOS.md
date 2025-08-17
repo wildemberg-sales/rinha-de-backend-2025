@@ -1,6 +1,6 @@
 # Prévia do Resultados da Rinha de Backend 2025
-Atualizado em **Sun Aug 17 21:57:02 UTC 2025**
-454 submissões / 393 resultados / 61 submissões com erro
+Atualizado em **Sun Aug 17 22:05:52 UTC 2025**
+454 submissões / 392 resultados / 62 submissões com erro
 
 
 | participante | p99 | bônus por desempenho (%) | multa ($) | lucro | submissão |
@@ -216,7 +216,6 @@ Atualizado em **Sun Aug 17 21:57:02 UTC 2025**
 |	kauan-carvalho-go	|	2.78ms	|	16%	|	0	|	358967.742	|	[kauan-carvalho-go](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/kauan-carvalho-go)
 |	kauanborges-2	|	55.5ms	|	0%	|	0	|	315265.75	|	[kauanborges-2](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/kauanborges-2)
 |	kauanborges	|	37.87ms	|	0%	|	0	|	315190.13	|	[kauanborges](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/kauanborges)
-|	kauanmocelin-quarkus	|	2.44ms	|	17%	|	0	|	370326.59235	|	[kauanmocelin-quarkus](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/kauanmocelin-quarkus)
 |	krymancer	|	31.65ms	|	0%	|	0	|	0	|	[krymancer](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/krymancer)
 |	lauro-santana-go	|	2.72ms	|	17%	|	0	|	176155.68555	|	[lauro-santana-go](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lauro-santana-go)
 |	lbattochio-dotnet	|	53.08ms	|	0%	|	0	|	315675.69	|	[lbattochio-dotnet](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lbattochio-dotnet)
@@ -232,7 +231,7 @@ Atualizado em **Sun Aug 17 21:57:02 UTC 2025**
 |	lecosas-java-spring-graalvm-5	|	2.83ms	|	16%	|	0	|	366253.0524	|	[lecosas-java-spring-graalvm-5](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lecosas-java-spring-graalvm-5)
 |	lecosas-java-spring-graalvm-6	|	2.6ms	|	17%	|	0	|	364908.63825	|	[lecosas-java-spring-graalvm-6](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lecosas-java-spring-graalvm-6)
 |	lecosas-java-spring-graalvm	|	2.72ms	|	17%	|	0	|	369412.7346	|	[lecosas-java-spring-graalvm](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lecosas-java-spring-graalvm)
-|	leonardosegfault-nodejs	|	5.89ms	|	10%	|	0	|	336854.2649999462	|	[leonardosegfault-nodejs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/leonardosegfault-nodejs)
+|	leonardosegfault-nodejs	|	4.58ms	|	13%	|	0	|	352292.5854999739	|	[leonardosegfault-nodejs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/leonardosegfault-nodejs)
 |	leonardotomas-cs	|	51.38ms	|	0%	|	109386.36975	|	203146.11525	|	[leonardotomas-cs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/leonardotomas-cs)
 |	leoralph	|	16.02ms	|	0%	|	0	|	316450.795	|	[leoralph](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/leoralph)
 |	leorcvargas-stable	|	1.53ms	|	19%	|	0	|	363577.94515	|	[leorcvargas-stable](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/leorcvargas-stable)
@@ -458,6 +457,7 @@ Atualizado em **Sun Aug 17 21:57:02 UTC 2025**
 | jvsandrade-rust-mini | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/jvsandrade-rust-mini) |
 | kauan-carvalho-elixir | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/kauan-carvalho-elixir) |
 | kauan-carvalho-go | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/kauan-carvalho-go) |
+| kauanmocelin-quarkus | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/kauanmocelin-quarkus) |
 | lauro-santana-go | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lauro-santana-go) |
 | lbattochio-dotnet | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lbattochio-dotnet) |
 | lczago-go | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/lczago-go) |

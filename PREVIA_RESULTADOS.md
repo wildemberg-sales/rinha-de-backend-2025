@@ -1,6 +1,6 @@
 # Prévia do Resultados da Rinha de Backend 2025
-Atualizado em **Sun Aug 17 21:16:14 UTC 2025**
-452 submissões / 391 resultados / 61 submissões com erro
+Atualizado em **Sun Aug 17 21:25:22 UTC 2025**
+454 submissões / 392 resultados / 62 submissões com erro
 
 
 | participante | p99 | bônus por desempenho (%) | multa ($) | lucro | submissão |
@@ -181,6 +181,7 @@ Atualizado em **Sun Aug 17 21:16:14 UTC 2025**
 |	joaoprocopio	|	2ms	|	18%	|	108509.47624998535	|	257322.47224996527	|	[joaoprocopio](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/joaoprocopio)
 |	joaoreisa-go	|	4.68ms	|	13%	|	0	|	262400.803	|	[joaoreisa-go](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/joaoreisa-go)
 |	joaoulian	|	8.48ms	|	5%	|	0	|	329317.737	|	[joaoulian](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/joaoulian)
+|	joaoxyz-typescript-bun	|	40.75ms	|	0%	|	0	|	205517.2499999805	|	[joaoxyz-typescript-bun](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/joaoxyz-typescript-bun)
 |	joelgarciajr84-go	|	2ms	|	18%	|	0	|	371782.2873	|	[joelgarciajr84-go](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/joelgarciajr84-go)
 |	jonhkr	|	3.54ms	|	15%	|	0	|	363213.55625	|	[jonhkr](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/jonhkr)
 |	joojf-rust	|	83.73ms	|	0%	|	0	|	288304.2349999546	|	[joojf-rust](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/joojf-rust)
@@ -446,6 +447,7 @@ Atualizado em **Sun Aug 17 21:16:14 UTC 2025**
 | jonhkr | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/jonhkr) |
 | josafaverissimo-java-01 | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/josafaverissimo-java-01) |
 | josehelioaraujo | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/josehelioaraujo) |
+| jpgo | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/jpgo) |
 | juanmedeiros-dotnet-redis | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/juanmedeiros-dotnet-redis) |
 | juanmedeiros-dotnet | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/juanmedeiros-dotnet) |
 | julio-fastapi | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/julio-fastapi) |

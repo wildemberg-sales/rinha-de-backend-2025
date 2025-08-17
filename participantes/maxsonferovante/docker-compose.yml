@@ -13,8 +13,8 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.2'
-          memory: 40MB
+          cpus: '0.15'
+          memory: 30MB
 
   app-native-1:
     image: docker.io/maxsonferovante/api-payment-processor:latest
@@ -25,7 +25,7 @@ services:
       REDIS_TIMEOUT: 5000ms
       REDIS_QUEUE_PAYMENTS_MAIN: rinha-payments-main-queue
       # Flags de JVM otimizadas para recursos limitados
-      JAVA_OPTS: "-Xmx40m -Xms20m -XX:+UseG1GC -XX:MaxGCPauseMillis=200 -XX:+UseStringDeduplication -XX:+OptimizeStringConcat -Djava.security.egd=file:/dev/./urandom"
+      JAVA_OPTS: "-Xmx75m -Xms50m -XX:+UseG1GC -XX:MaxGCPauseMillis=100 -XX:+UseStringDeduplication -XX:G1HeapRegionSize=1m -XX:MaxMetaspaceSize=20m"
     depends_on:
       redis:
         condition: service_healthy
@@ -35,8 +35,8 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.3'
-          memory: 60MB
+          cpus: '0.35'
+          memory: 100MB
 
   app-native-2:
     image: docker.io/maxsonferovante/api-payment-processor:latest
@@ -47,7 +47,7 @@ services:
       REDIS_TIMEOUT: 5000ms
       REDIS_QUEUE_PAYMENTS_MAIN: rinha-payments-main-queue
       # Flags de JVM otimizadas para recursos limitados
-      JAVA_OPTS: "-Xmx40m -Xms20m -XX:+UseG1GC -XX:MaxGCPauseMillis=200 -XX:+UseStringDeduplication -XX:+OptimizeStringConcat -Djava.security.egd=file:/dev/./urandom"
+      JAVA_OPTS: "-Xmx75m -Xms50m -XX:+UseG1GC -XX:MaxGCPauseMillis=100 -XX:+UseStringDeduplication -XX:G1HeapRegionSize=1m -XX:MaxMetaspaceSize=20m"
     depends_on:
       redis:
         condition: service_healthy
@@ -57,8 +57,8 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.3'
-          memory: 60MB
+          cpus: '0.35'
+          memory: 100MB
 
   # Processador assíncrono de pagamentos - consome mensagens do Redis
   async-worker:
@@ -75,7 +75,7 @@ services:
       WORKER_BATCH_SIZE: 100
       WORKER_EXECUTION_DELAY: 100
       # Flags de JVM otimizadas para recursos limitados
-      JAVA_OPTS: "-Xmx80m -Xms40m -XX:+UseG1GC -XX:MaxGCPauseMillis=200 -XX:+UseStringDeduplication -XX:+OptimizeStringConcat -Djava.security.egd=file:/dev/./urandom"
+      JAVA_OPTS: "-Xmx60m -Xms40m -XX:+UseG1GC -XX:MaxGCPauseMillis=100 -XX:+UseStringDeduplication -XX:G1HeapRegionSize=1m -XX:MaxMetaspaceSize=15m"
     depends_on:
       redis:
         condition: service_healthy
@@ -85,8 +85,8 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.4'
-          memory: 120MB
+          cpus: '0.3'
+          memory: 80MB
 
   nginx:
     image: nginx:alpine
@@ -102,8 +102,8 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.3'
-          memory: 70MB
+          cpus: '0.25'
+          memory: 40MB
 
 networks:
   backend:

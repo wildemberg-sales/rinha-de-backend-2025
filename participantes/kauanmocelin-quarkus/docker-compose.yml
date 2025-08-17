@@ -13,7 +13,7 @@ x-rinhaquark2025: &rinhaquark2025
   deploy:
     resources:
       limits:
-        cpus: "0.12"
+        cpus: "0.6"
         memory: "80MB"
 
 services:
